@@ -3,6 +3,7 @@ cime/
 components/
 libraries/
 share/
+visualCaseGen/
 
 # generated local files
 *.log
@@ -16,3 +17,4 @@ share/
 
 # ignore for the merge to master and orphaning of the gh-pages branch
 doc/build
+
